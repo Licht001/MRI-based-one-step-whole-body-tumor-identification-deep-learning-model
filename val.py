@@ -1,6 +1,6 @@
 # YOLOv5 🚀 by Ultralytics, GPL-3.0 license
 """
-Validate a trained YOLOv5 model accuracy on a custom dataset
+Validate a trained YOLOv5 model accuracy on a custom dataset 
 
 Usage:
     $ python path/to/val.py --weights yolov5s.pt --data coco128.yaml --img 640
